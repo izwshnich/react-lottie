@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/izwshnich/react-lottie-web/compare/v1.2.3...v1.3.0) (2019-07-04)
+
+
+### Features
+
+* enable to pass force segment flag ([a6c9f18](https://github.com/izwshnich/react-lottie-web/commit/a6c9f18))
+
+
+
 <a name="1.2.3"></a>
 ## [1.2.3](https://github.com/chenqingspring/react-lottie/compare/v1.2.2...v1.2.3) (2018-06-14)
 
