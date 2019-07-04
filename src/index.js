@@ -179,7 +179,10 @@ Lottie.propTypes = {
   isStopped: PropTypes.bool,
   isPaused: PropTypes.bool,
   speed: PropTypes.number,
-  segments: PropTypes.arrayOf(PropTypes.number),
+  segments: PropTypes.oneOfType([
+    PropTypes.arrayOf(PropTypes.number),
+    PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.number))
+  ]),
   forceSegments: PropTypes.bool,
   direction: PropTypes.number,
   ariaRole: PropTypes.string,
