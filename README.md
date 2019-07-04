@@ -1,6 +1,6 @@
 # Lottie Animation View for React ([Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
 
-[![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
+[![npm version](https://badge.fury.io/js/react-lottie-web.svg)](http://badge.fury.io/js/react-lottie-web)
 
 ## Demo
 https://chenqingspring.github.io/react-lottie
